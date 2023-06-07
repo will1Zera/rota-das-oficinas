@@ -7,7 +7,7 @@
   Este conversor é capaz de converter números romanos para arábicos e vice-versa.
 </p>
 <p align="center">
-  <img src="./img/tarefa1.gif" align="center" style="border-radius: 10px" />
+  <img src="https://github.com/will1Zera/rota-das-oficinas/blob/master/img/tarefa1.gif" align="center" style="border-radius: 10px" />
 </p>
 
 ## Tecnologias 👨‍💻 

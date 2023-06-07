@@ -7,7 +7,7 @@
   Este jogo é baseado em um tabuleiro que possui células vivas que se comportam conforme as regras.
 </p>
 <p align="center">
-  <img src="./img/tarefa1.gif" align="center" style="border-radius: 10px" />
+  <img src="https://github.com/will1Zera/rota-das-oficinas/blob/master/img/tarefa2.gif" align="center" style="border-radius: 10px" />
 </p>
 
 ## Tecnologias 👨‍💻 

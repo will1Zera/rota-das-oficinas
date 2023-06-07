@@ -7,7 +7,7 @@
   Esta calculadora divide a conta de um estabelecimento para cada cliente, levando em conta o consumo de cada um.
 </p>
 <p align="center">
-  <img src="./img/tarefa3.gif" align="center" style="border-radius: 10px" />
+  <img src="https://github.com/will1Zera/rota-das-oficinas/blob/master/img/tarefa3.gif" align="center" style="border-radius: 10px" />
 </p>
 
 ## Tecnologias 👨‍💻 
